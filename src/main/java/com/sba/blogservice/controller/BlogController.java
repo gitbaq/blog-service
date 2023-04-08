@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class BlogController {
     @GetMapping
     public String hello(){
-        return "Bismillah";
+        return "Alhamdolillah";
     }
 }
